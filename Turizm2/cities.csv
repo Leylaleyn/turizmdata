@@ -1,0 +1,26 @@
+city_id,name,region
+1,İstanbul,Marmara
+2,Antalya,Akdeniz
+3,Kapadokya,İç Anadolu
+4,İzmir,Ege
+5,Bodrum,Ege
+6,Pamukkale,Ege
+7,Ankara,İç Anadolu
+8,Trabzon,Karadeniz
+9,Fethiye,Akdeniz
+10,Alanya,Akdeniz
+11,Marmaris,Ege
+12,Çeşme,Ege
+13,Konya,İç Anadolu
+14,Bursa,Marmara
+15,Edirne,Marmara
+16,Van,Doğu Anadolu
+17,Gaziantep,Güneydoğu
+18,Şanlıurfa,Güneydoğu
+19,Mardin,Güneydoğu
+20,Kars,Doğu Anadolu
+21,Side,Akdeniz
+22,Kaş,Akdeniz
+23,Ayvalık,Ege
+24,Assos,Ege
+25,Amasya,Karadeniz

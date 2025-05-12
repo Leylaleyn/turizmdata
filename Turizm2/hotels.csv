@@ -1,0 +1,31 @@
+hotel_id,name,city_id,price,rating
+1001,Rixos Premium Istanbul,1,5000,4.8
+1002,Titanic Deluxe Belek,2,4000,4.7
+1003,Cappadocia Cave Suites,3,3000,4.6
+1004,Hilton Izmir,4,950,4.5
+1005,Marmara Bodrum,5,4500,4.7
+1006,Pam Thermal Hotel,6,860,4.4
+1007,The Ankara Hotel,7,800,4.2
+1008,Uzungöl Naturel Hotel,8,790,4.1
+1009,Yacht Classic Hotel,9,300,4.3
+1010,Kleopatra Royal Hotel,10,540,4.2
+1011,Green Nature Resort,11,600,4.4
+1012,Taş Otel Çeşme,12,900,4.5
+1013,Dedeman Konya,13,90,4.0
+1014,Hilton Bursa,14,890,4.3
+1015,Rüstempaşa Kervansaray,15,210,4.1
+1016,Büyük Urfa Hotel,18,380,4.0
+1017,Artuklu Konuk Evi,19,700,4.2
+1018,Kars Sürmeli Hotel,20,680,4.1
+1019,Divan Istanbul,1,7800,4.6
+1020,Barut Hemera,2,3240,4.7
+1021,Lykia Lodge,9,999,4.5
+1022,D Maris Bay,11,9008,4.8
+1023,Argos in Cappadocia,3,9000,4.9
+1024,Çırağan Palace Kempinski,1,4000,4.9
+1025,Swissôtel Büyük Efes,4,6000,4.7
+1026,Labranda Mares Marmaris,11,860,4.3
+1027,Radisson Blu Palace,5,5460,4.6
+1028,Hillside Beach Club,9,7688,4.7
+1029,Four Seasons Sultanahmet,1,8990,4.9
+1030,Maxx Royal Belek,2,5120,4.8

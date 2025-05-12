@@ -1,0 +1,31 @@
+activity_id,name,city_id,type,duration_hours,price
+3001,Boğaz Turu,1,Gezi,2,150
+3002,Balon Turu,3,Macera,3,250
+3003,Yat Turu,2,Deniz,8,200
+3004,Efes Turu,4,Tarih,4,120
+3005,Dalış Deneyimi,5,Macera,2,180
+3006,Termal Banyo,6,Wellness,1,100
+3007,Ankara Kalesi Turu,7,Tarih,3,80
+3008,Uzungöl Yürüyüşü,8,Doğa,2,50
+3009,Paragliding,9,Macera,1,300
+3010,Jeep Safari,10,Macera,4,150
+3011,Yat Kiralama,11,Deniz,6,400
+3012,Rüzgar Sörfü,12,Spor,2,120
+3013,Sema Gösterisi,13,Kültür,1,90
+3014,Uludağ Kayak,14,Spor,6,200
+3015,Tarihi Köprüler Turu,15,Tarih,3,70
+3016,Van Gölü Tekne Turu,16,Gezi,4,110
+3017,Baklava Atölyesi,17,Gastronomi,2,60
+3018,Göbeklitepe Turu,18,Tarih,5,130
+3019,Mardin Sokakları Turu,19,Kültür,3,80
+3020,Kars Kış Festivali,20,Kültür,8,150
+3021,Antik Tiyatro Gösterisi,21,Kültür,2,90
+3022,Kaş Dalış,22,Macera,3,220
+3023,Ayvalık Cunda Turu,23,Gezi,4,100
+3024,Assos Antik Kent,24,Tarih,3,70
+3025,Amasya Kalesi,25,Tarih,2,50
+3026,İstanbul Food Tour,1,Gastronomi,3,120
+3027,Antalya Aquapark,2,Eğlence,5,180
+3028,Kapadokya ATV Turu,3,Macera,2,160
+3029,İzmir Wine Tasting,4,Gastronomi,2,90
+3030,Bodrum Gece Kulübü,5,Eğlence,4,200
