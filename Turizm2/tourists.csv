@@ -1,26 +1,26 @@
-tourist_id,name,age,nationality
-101,Anna Petrova,32,Rusya
-102,John Smith,45,ABD
-103,Maria Gonzalez,28,İspanya
-104,Ahmed Al-Farsi,40,Suudi Arabistan
-105,Lisa Müller,29,Almanya
-106,Mikhail Ivanov,50,Rusya
-107,Sophie Martin,35,Fransa
-108,David Wilson,42,İngiltere
-109,Fatima Al-Maktoum,33,Birleşik Arap Emirlikleri
-110,Thomas Schmidt,38,Almanya
-111,Emma Johnson,27,ABD
-112,Carlos Ruiz,31,İspanya
-113,Olga Sokolova,29,Rusya
-114,Mohammed Khan,43,Hindistan
-115,Yuki Tanaka,34,Japonya
-116,Giovanni Rossi,41,İtalya
-117,Nora Andersson,26,İsveç
-118,Lucas Müller,30,Almanya
-119,Elena Popescu,28,Romanya
-120,James Taylor,39,İngiltere
-121,Mehmet Yılmaz,35,Türkiye
-122,Ayşe Demir,29,Türkiye
-123,Alexander Wolf,33,Almanya
-124,Linda Chen,31,Çin
-125,Mohamed Ali,36,Mısır
+tourist_id,name,age,nationality,gender
+101,Anna Petrova,32,Rusya,female
+102,John Smith,45,ABD,male
+103,Maria Gonzalez,28,İspanya,female
+104,Ahmed Al-Farsi,40,Suudi Arabistan,male
+105,Lisa Müller,29,Almanya,female
+106,Mikhail Ivanov,50,Rusya,male
+107,Sophie Martin,35,Fransa,female
+108,David Wilson,42,İngiltere,male
+109,Fatima Al-Maktoum,33,Birleşik Arap Emirlikleri,female
+110,Thomas Schmidt,38,Almanya,male
+111,Emma Johnson,27,ABD,female
+112,Carlos Ruiz,31,İspanya,male
+113,Olga Sokolova,29,Rusya,female
+114,Mohammed Khan,43,Hindistan,male
+115,Yuki Tanaka,34,Japonya,female
+116,Giovanni Rossi,41,İtalya,male
+117,Nora Andersson,26,İsveç,female
+118,Lucas Müller,30,Almanya,male
+119,Elena Popescu,28,Romanya,female
+120,James Taylor,39,İngiltere,male
+121,Mehmet Yılmaz,35,Türkiye,male
+122,Ayşe Demir,29,Türkiye,female
+123,Alexander Wolf,33,Almanya,male
+124,Linda Chen,31,Çin,female
+125,Mohamed Ali,36,Mısır,male
