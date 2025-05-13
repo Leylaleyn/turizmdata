@@ -1,4 +1,4 @@
-place_id,name,city_id,type,entry_fee,popularity
+place_id,name,city_id,type,entry_fee
 2001,Ayasofya,1,historical,100
 2002,Topkapı Sarayı,1,historical,150
 2003,Sultanahmet Camii,1,religious,0
