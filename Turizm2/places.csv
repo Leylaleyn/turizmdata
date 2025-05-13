@@ -1,0 +1,32 @@
+place_id,name,city_id,type,entry_fee,popularity
+2001,Ayasofya,1,historical,100
+2002,Topkapı Sarayı,1,historical,150
+2003,Sultanahmet Camii,1,religious,0
+2004,Kapalıçarşı,1,cultural,0
+2005,Düden Şelalesi,2,natural,20
+2006,Aspendos Antik Tiyatrosu,2,historical,60
+2007,Antalya Müzesi,2,cultural,50
+2008,Göreme Açık Hava Müzesi,3,historical,80
+2009,Peri Bacaları,3,natural,0
+2010,Uçhisar Kalesi,3,historical,30
+2011,Efes Antik Kenti,4,historical,100
+2012,Konak Saat Kulesi,4,cultural,0
+2013,Kordon,4,cultural,0
+2014,Bodrum Kalesi,5,historical,65
+2015,Bitez Plajı,5,natural,0
+2016,Bodrum Sualtı Arkeoloji Müzesi,5,cultural,50
+2017,Pamukkale Travertenleri,6,natural,50
+2018,Hierapolis Antik Kenti,6,historical,70
+2019,Kleopatra Havuzu,6,natural,30
+2020,Anıtkabir,7,historical,0
+2021,Atatürk Orman Çiftliği,7,cultural,20
+2022,Etnografya Müzesi,7,cultural,25
+2023,Sümela Manastırı,8,historical,45
+2024,Uzungöl,8,natural,0
+2025,Boztepe Seyir Tepesi,8,natural,0
+2026,Ölüdeniz,9,natural,0
+2027,Babadağ,9,natural,30
+2028,Saklıkent Kanyonu,9,natural,20
+2029,Dim Mağarası,10,natural,25
+2030,Alanya Kalesi,10,historical,35
+2031, Kleopatra Plajı,10,natural,0
