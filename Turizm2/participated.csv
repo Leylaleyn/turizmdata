@@ -1,5 +1,4 @@
 participation_id,tourist_id,activity_id,participation_date
-7000, 101,,2025-04-20
 7001,101,3001,2023-05-16
 7002,101,3002,2023-06-11
 7003,102,3003,2023-07-21
@@ -50,3 +49,4 @@ participation_id,tourist_id,activity_id,participation_date
 7048,118,3026,2023-06-21
 7049,119,3029,2023-07-26
 7050,120,3021,2023-08-31
+7051, 101,,2025-04-20
